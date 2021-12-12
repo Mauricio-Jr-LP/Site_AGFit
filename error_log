@@ -1,0 +1,185 @@
+[05-Dec-2021 20:34:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:39
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 39
+[05-Dec-2021 20:35:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:35:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:36:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:36:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:36:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:36:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:37:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:37:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:37:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:37:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:37:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:37:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:40:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:40:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:41:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:44:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:44:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:44:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:44:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:44:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:44:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:44:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:46:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:46:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:46:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:46:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:46:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:47:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:47:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:47:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:47:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:47:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:47:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[05-Dec-2021 20:53:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9
+[06-Dec-2021 07:40:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:39
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 39
+[06-Dec-2021 07:40:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/meusit92/public_html/agfit/classes/Site.php:9
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Site.php on line 9

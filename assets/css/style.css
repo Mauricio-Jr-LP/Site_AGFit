@@ -786,6 +786,13 @@ section {
 .menu {
   display: flex;
 }
+.menu .box {
+  padding: 50px 30px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  transition: all ease-in-out 0.3s;
+  height: 100%;
+  border-radius: 10px;
+}
 .menu #menu-flters {
   padding: 0;
   margin: 0 auto 0 auto;
@@ -1171,9 +1178,11 @@ section {
   overflow: hidden;
   border-right: 3px solid #fff;
   border-bottom: 3px solid #fff;
+  border-radius: 10px;
 }
 .gallery .gallery-item img {
   transition: all ease-in-out 0.4s;
+  BORDER-RADIUS: 10PX;
 }
 .gallery .gallery-item:hover img {
   transform: scale(1.1);
@@ -1183,7 +1192,7 @@ section {
 # Chefs
 --------------------------------------------------------------*/
 .chefs {
-  background: url("../img/chefs-bg.jpg") center center no-repeat;
+  background: url("../img/chefs/team.jpg") center center no-repeat;
   background-size: cover;
   padding: 60px 0;
   position: relative;
@@ -1215,18 +1224,19 @@ section {
   bottom: -80px;
   left: 20px;
   right: 20px;
-  background: #fff;
+  background: var(--amarelo);
   padding: 20px 0;
   color: #433f39;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   transition: max-height 0.5s ease-in-out;
+  border-radius: 10px;
 }
 .chefs .member h4 {
   font-weight: 500;
   margin-bottom: 10px;
   font-size: 16px;
-  color: #6c665c;
+  color: var(--marrom);
   position: relative;
   padding-bottom: 10px;
   font-family: "Poppins", sans-serif;
@@ -1251,14 +1261,19 @@ section {
 }
 .chefs .member .social a {
   transition: color 0.3s;
-  color: #7a7368;
+  color: var(--marrom);
 }
 .chefs .member .social a:hover {
-  color: var(--amarelo);
+  transform: scale(1.5);
+  transition: 0.5s;
 }
 .chefs .member .social i {
   font-size: 16px;
   margin: 0 2px;
+}
+.chefs .member img {
+    border-radius: 10px;
+    border: 5px solid var(--amarelo);
 }
 @media (max-width: 992px) {
   .chefs .member {
@@ -1276,7 +1291,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/feedbg.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;

@@ -1,0 +1,18 @@
+[09-Dec-2021 10:40:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/meusit92/public_html/agfit/painel/pages/gerenciar-colaboradores.php on line 106
+[09-Dec-2021 10:40:46 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/meusit92/public_html/agfit/painel/pages/gerenciar-colaboradores.php on line 106
+[09-Dec-2021 14:42:11 America/Sao_Paulo] PHP Warning:  Illegal string offset 'imagem' in /home2/meusit92/public_html/agfit/painel/pages/editar-colaborador.php on line 27
+[09-Dec-2021 14:42:32 America/Sao_Paulo] PHP Warning:  Illegal string offset 'imagem' in /home2/meusit92/public_html/agfit/painel/pages/editar-colaborador.php on line 27
+[09-Dec-2021 14:44:05 America/Sao_Paulo] PHP Warning:  Illegal string offset 'imagem' in /home2/meusit92/public_html/agfit/painel/pages/editar-colaborador.php on line 27
+[09-Dec-2021 14:44:18 America/Sao_Paulo] PHP Warning:  Illegal string offset 'imagem' in /home2/meusit92/public_html/agfit/painel/pages/editar-colaborador.php on line 27
+[09-Dec-2021 17:05:50 America/Sao_Paulo] PHP Warning:  Use of undefined constant desc1 - assumed 'desc1' (this will throw an Error in a future version of PHP) in /home2/meusit92/public_html/agfit/painel/pages/atualizar-specials.php on line 36
+[09-Dec-2021 17:05:50 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home2/meusit92/public_html/agfit/classes/Painel.php:146
+Stack trace:
+#0 /home2/meusit92/public_html/agfit/classes/Painel.php(146): PDOStatement->execute(Array)
+#1 /home2/meusit92/public_html/agfit/painel/pages/atualizar-specials.php(38): Painel::insert(Array)
+#2 /home2/meusit92/public_html/agfit/classes/Painel.php(51): include('/home2/meusit92...')
+#3 /home2/meusit92/public_html/agfit/painel/main.php(80): Painel::carregarPagina()
+#4 /home2/meusit92/public_html/agfit/painel/index.php(8): include('/home2/meusit92...')
+#5 {main}
+  thrown in /home2/meusit92/public_html/agfit/classes/Painel.php on line 146
+[09-Dec-2021 17:11:44 America/Sao_Paulo] PHP Warning:  Use of undefined constant desc1 - assumed 'desc1' (this will throw an Error in a future version of PHP) in /home2/meusit92/public_html/agfit/painel/pages/atualizar-specials.php on line 40
+[09-Dec-2021 17:12:08 America/Sao_Paulo] PHP Warning:  Use of undefined constant desc1 - assumed 'desc1' (this will throw an Error in a future version of PHP) in /home2/meusit92/public_html/agfit/painel/pages/atualizar-specials.php on line 40
